@@ -45,7 +45,7 @@ The dataset contains more than **117,000 Machine Learning research papers** with
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - Python
 - Pandas

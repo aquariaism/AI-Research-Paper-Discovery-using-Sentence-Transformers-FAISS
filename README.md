@@ -1,0 +1,2 @@
+# AI-Research-Paper-Discovery-using-Sentence-Transformers-FAISS
+An end-to-end **Deep Learning and Natural Language Processing (NLP)** project that enables semantic search and intelligent discovery of AI research papers.  Unlike traditional keyword-based search systems, this project understands the contextual meaning of research papers using **Sentence Transformers**, allowing users to retrieve relevant papers 

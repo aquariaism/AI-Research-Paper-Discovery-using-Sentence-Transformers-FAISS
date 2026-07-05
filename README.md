@@ -277,6 +277,3 @@ Through this project, I gained hands-on experience in:
 - Exploratory Data Analysis
 
 
-If you have suggestions or feedback, feel free to connect!
-
-⭐ If you found this project useful, consider giving it a star.
